@@ -1,5 +1,5 @@
 # uppdrag-3---Prog-1
 
-Dokunentation
+1. Dokunentation
 
-första flödes schemat utan icon benämningar
+2. Första flödes schemat utan icon benämningar
